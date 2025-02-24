@@ -10,8 +10,10 @@ The "-merge" function works as intended, but might not stack up perfectly horizo
 <img width="757" alt="Screenshot 2025-02-24 at 3 20 42 PM" src="https://github.com/user-attachments/assets/381320ed-fc71-43d0-8fbf-64af6b416d3e" />
 
 
-This tool was created with the help of AI, Quake 3 source code, and this project: https://github.com/nilium/go-md3
+https://github.com/user-attachments/assets/27950ecc-00d7-4a45-bf7b-b56e820e6b58
 
+
+This tool was created with the help of AI, Quake 3 source code, and this project: https://github.com/nilium/go-md3
 
 Created by:
 Christopher M. with the help of AI, and Github  | Creatisoft
